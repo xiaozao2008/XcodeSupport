@@ -2,6 +2,10 @@ Xcode真机支持组件.
 
 ### 使用方法
 
+> 把此zip解压放到xcode的指定路径即可
+
+#### Xcode路径
+
 > Xcode.app -> 显示包内容 -> Contents -> Developer -> Platforms -> iPhoneOS.platform -> DeviceSupport
 
 > 或者
@@ -9,7 +13,8 @@ Xcode真机支持组件.
 	open ../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/
 
 
-> 然后把下载的对应zip解压到目录下
+
+#### 下载zip
 
 > 下载整个工程太大, 一般来说我们只是需要最新或者特定版本支持文件.
 
