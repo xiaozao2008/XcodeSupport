@@ -28,39 +28,40 @@ Xcode真机支持组件.
 > 单个zip下载方法, 终端cd后直接使用 curl -O 或者 wget 下载
 
 
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.0.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/8.0.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.1.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/8.1.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.2.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/8.2.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.3.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/8.3.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.4.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/8.4.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/9.0.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/9.0.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/9.1.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/9.1.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/9.2.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/9.2.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/9.3.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/9.3.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/10.0.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/10.0.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/10.1.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/10.1.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/10.2.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/10.2.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/10.3.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/10.3.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/11.0.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/11.0.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/11.1.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/11.1.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/11.2.zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/11.2.zip
 	
-	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/11.3%20(15E217).zip
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/11.3.zip
+
 	
 > 或者把 'curl -O' 改为 'wget'
 
