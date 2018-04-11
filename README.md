@@ -4,6 +4,7 @@ Xcode真机支持组件.
 
 > Xcode.app -> 显示包内容 -> Contents -> Developer -> Platforms -> iPhoneOS.platform -> DeviceSupport
 > 或者
+
 	open ../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/
 
 
