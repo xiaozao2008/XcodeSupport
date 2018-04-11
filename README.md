@@ -9,5 +9,25 @@ Xcode真机支持组件.
 
 
 > 然后把下载的对应zip解压到目录下
+> 下载整个工程太大, 一般来说我们只是需要最新或者特定版本支持文件.
+> 单个zip下载方法
 
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.0.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.1.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.2.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.3.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/8.4.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/9.0.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/9.1.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/9.2.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/9.3.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/10.0.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/10.1.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/10.2.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/10.3.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/11.0.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/11.1.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/11.2.zip
+	curl -O https://github.com/xiaozao2008/XcodeSupport/blob/master/11.3.zip
+	
 > 注意需要彻底重启Xcode才有效.
