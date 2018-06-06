@@ -61,10 +61,10 @@ Xcode真机支持组件.
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/11.2.zip
 	
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/11.3.zip
-    
-        curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/11.4.zip
-      
-        curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.0.zip
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/11.4.zip
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.0.zip
 
 	
 > 或者把 'curl -O' 改为 'wget'
