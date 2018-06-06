@@ -17,7 +17,7 @@ Xcode真机支持组件.
 
 > 或者
 
-	open ../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/
+	open /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport 
 
 
 
