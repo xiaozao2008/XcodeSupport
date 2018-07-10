@@ -1,6 +1,6 @@
 Xcode真机支持组件.
 
-<font color=#0099ff size=18 face="微软雅黑">注意需要彻底重启Xcode才有效.</font>
+<font color=#ff0000 size=18 face="微软雅黑">注意需要彻底重启Xcode才有效.</font>
 
 每次升级Xcode可能隐含一些坑, 所以很多Developer可能还在使用旧版本的Xcode.
 
