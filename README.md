@@ -70,7 +70,9 @@ Xcode真机支持组件.
     
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.1.zip
 
-      curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.2.zip
+        curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.2.zip
+	
+	
 	
 	
 > 或者把 'curl -O' 改为 'wget'
