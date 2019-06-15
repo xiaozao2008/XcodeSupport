@@ -71,6 +71,11 @@ Xcode真机支持组件.
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.1.zip
 	
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.2.zip
+    
+      ... 12.3.zip
+      
+      
+      ...
 	
 	
 	
