@@ -71,17 +71,17 @@ Xcode真机支持组件. iOS8.0 ~ iOS13.2
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.1.zip
 	
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.2.zip
-    
-        curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.3.zip
-      
-        curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.4.zip
-      
-        curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/13.0.zip
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.3.zip
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/12.4.zip
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/13.0.zip
 	
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/13.1.zip
-      
-        curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/13.2.zip
-      
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/13.2.zip
+	
       ...
 	
 	
