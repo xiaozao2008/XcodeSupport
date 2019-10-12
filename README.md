@@ -7,7 +7,7 @@ Xcode真机支持组件. iOS8.0 ~ iOS13.2
 
 ### 使用方法
 
-> 把此zip解压放到xcode的指定路径,然后重启Xcode一次.
+> 把此zip解压放到xcode的指定路径,然后重启xcode一次.
 
 #### Xcode路径
 
