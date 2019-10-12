@@ -21,7 +21,7 @@ Xcode真机支持组件. iOS8.0 ~ iOS13.2
 
 #### 下载zip
 
-> 单个zip下载方法, 之间点击网址浏览器下载, 或者 curl -O 或者 wget 下载到指定路径均可
+> 单个zip下载方法, 点击网址浏览器下载, 或者 curl -O 或者 wget 下载到指定路径均可
 
 
 curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/8.0.zip
