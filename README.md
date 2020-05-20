@@ -1,4 +1,4 @@
-Xcode真机支持组件. iOS8.0 ~ iOS13.4
+Xcode真机支持组件. iOS8.0 ~ iOS13.5
 
 ##### 注意需要重启Xcode才有效
 
@@ -80,6 +80,8 @@ Xcode真机支持组件. iOS8.0 ~ iOS13.4
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/13.3.zip
 	
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/13.4.zip
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/13.5.zip
 	
       ...
 	
