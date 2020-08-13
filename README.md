@@ -1,4 +1,4 @@
-Xcode真机支持组件. iOS8.0 ~ iOS13.5
+Xcode真机支持组件. iOS8.0 ~ iOS14
 
 ##### 注意需要重启Xcode才有效
 
