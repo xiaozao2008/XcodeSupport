@@ -85,6 +85,8 @@ Xcode真机支持组件. iOS8.0 ~ iOS13.5
 	
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/14.0.zip
 	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/14.1.zip
+	
       ...
 	
 	
