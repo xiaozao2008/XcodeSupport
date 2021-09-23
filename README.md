@@ -23,6 +23,7 @@ Xcode真机支持组件. iOS8.0 ~ iOS14.5
 
 > 单个zip下载方法, 点击网址浏览器下载, 或者 curl -O 或者 wget 下载到指定路径均可,或将xiaozao2008替换为abctm。
 	
+	
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/13.7.zip
 	
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/14.0.zip
@@ -36,6 +37,12 @@ Xcode真机支持组件. iOS8.0 ~ iOS14.5
 	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/14.4.zip
 
         curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/14.5.zip
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/14.7.zip
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/14.7.1.zip
+	
+	curl -O https://raw.githubusercontent.com/xiaozao2008/XcodeSupport/master/15.zip
 	
       ...
 	
